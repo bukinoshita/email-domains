@@ -1,6 +1,6 @@
 {
   "name": "email-domains",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Get a random email or list of email domains",
   "main": "index.js",
   "repository": {
