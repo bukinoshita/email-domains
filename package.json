@@ -1,0 +1,28 @@
+{
+  "name": "email-domains",
+  "version": "0.0.0",
+  "description": "Get a random email or list of email domains",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:bukinoshita/email-domains.git",
+    "type": "git"
+  },
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nickname": "^0.0.1",
+    "unique-random-array": "^1.0.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "xo": "^0.17.1"
+  },
+  "xo": {
+    "space": true,
+    "semicolon": false,
+    "esnext": true
+  }
+}
