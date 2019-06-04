@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "nickname": "^0.0.1",
-    "unique-random-array": "^1.0.0"
+    "unique-random-array": "^2.0.0"
   },
   "scripts": {
     "test": "xo && ava"
